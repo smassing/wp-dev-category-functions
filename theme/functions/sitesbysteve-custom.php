@@ -5,6 +5,7 @@ function getCats($included, $excluded)
 {
 
 	//get the list of included categories
+	// this is a test commit
 	$included_out = "";
 
 	foreach ($included as $itm) 
