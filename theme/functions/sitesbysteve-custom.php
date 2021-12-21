@@ -4,7 +4,7 @@
 function getCats($included, $excluded)
 {
 
-	//gett he list of included categories
+	//get the list of included categories
 	$included_out = "";
 
 	foreach ($included as $itm) 
